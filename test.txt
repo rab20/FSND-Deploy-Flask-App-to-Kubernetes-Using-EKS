@@ -1,1 +1,0 @@
-Sample file to check code build upon commit in Git
